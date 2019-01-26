@@ -1,4 +1,4 @@
-# costume-contest
+# Costume Contest
 A Costume Contest fullstack app based on Vuejs and Laravel.
 
 Follow the instructions on the repositories:
