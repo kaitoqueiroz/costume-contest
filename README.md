@@ -17,4 +17,4 @@ Follow the instructions on the repositories:
 
 https://github.com//kaitoqueiroz/costume-contest/blob/master/files/1.png?raw=true
 
-![alt text](https://github.com//kaitoqueiroz/costume-contest/blob/master/files/1.png?raw=true)
+!(https://github.com//kaitoqueiroz/costume-contest/blob/master/files/1.png?raw=true)
